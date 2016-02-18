@@ -1,0 +1,30 @@
+{
+  "name": "poly-board",
+  "version": "0.1.0",
+  "authors": [
+    "Francisco López <donflopez@gmail.com>"
+  ],
+  "description": "Make all the element inside this component draggable",
+  "keywords": [
+    "web-component",
+    "web-components",
+    "polymer",
+    "zoom",
+    "drag",
+    "polyter"
+  ],
+  "main": "poly-board.html",
+  "license": "https://github.com/donflopez/poly-board/blob/master/LICENSE",
+  "homepage": "https://github.com/donflopez/poly-board",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/donflopez/poly-board.git"
+  },
+  "ignore": [
+    "/.*"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.0.0"
+  },
+  "devDependencies": {}
+}
