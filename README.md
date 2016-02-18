@@ -1,19 +1,15 @@
-# poly-zoom
+# poly-board
 
-[![Join the chat at https://gitter.im/donflopez/poly-zoom](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/donflopez/poly-zoom?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-Bring an incredible zoom (60fps) to your project using this element
+Make draggable any element inside this component
 
-[Try a demo](http://donflopez.github.io/poly-zoom/)
+[Try a demo](http://donflopez.github.io/poly-board/) Coming soon!
 
-**Usage:** 
-
-* *upper-limit* is the maximum zoom posible
-* *revere* is the direction of the zoom with the mouse wheel
+**Usage:**
 
 ````
-<poly-zoom upper-limit="3" reverse="true">
+<poly-board>
   <!-- everything here -->
   <img>
   <h1>Hello!</h1>
-</poly-zoom>
+</poly-board>
 ```
